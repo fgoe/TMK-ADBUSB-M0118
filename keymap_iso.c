@@ -26,3 +26,6 @@ const uint16_t PROGMEM fn_actions[] = {
      /* QWERTZ Layout */
     [0] = ACTION_LAYER_MOMENTARY(1),  // to Fn over
 };
+
+
+
